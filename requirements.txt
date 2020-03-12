@@ -68,7 +68,7 @@ pexpect==4.2.1
 Pillow==5.1.0
 pipreqs==0.4.9
 protobuf==3.9.0rc1
-psutil==5.4.2
+psutil==5.6.6
 psycopg2-binary==2.8.3
 pyasn1==0.4.5
 pyasn1-modules==0.2.5
