@@ -18,7 +18,7 @@ defer==1.0.6
 defusedxml==0.6.0
 diff-match-patch==20181111
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2.3
+Django==2.2.13
 django-allauth==0.39.1
 django-bootstrap4==0.0.8
 django-crispy-forms==1.7.2
