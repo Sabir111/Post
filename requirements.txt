@@ -10,7 +10,7 @@ certifi==2019.3.9
 chardet==3.0.4
 collective.js.underscore==1.5.2.1
 command-not-found==0.3
-cryptography==2.1.4
+cryptography==3.2
 csvwriter==0.2.2
 cupshelpers==1.0
 DateTime==4.3
