@@ -6,7 +6,7 @@ beautifulsoup4==4.7.1
 Brlapi==0.6.6
 bs4==0.0.1
 BTrees==4.5.1
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 collective.js.underscore==1.5.2.1
 command-not-found==0.3
